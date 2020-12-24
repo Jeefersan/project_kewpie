@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Data/Kewpie.Data.csproj": {}
+  },
+  "projects": {
+    "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/Kewpie.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/Kewpie.Core.csproj",
+        "projectName": "Kewpie.Core",
+        "projectPath": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/Kewpie.Core.csproj",
+        "packagesPath": "/home/jeffrey/.nuget/packages/",
+        "outputPath": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jeffrey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Data/Kewpie.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Data/Kewpie.Data.csproj",
+        "projectName": "Kewpie.Data",
+        "projectPath": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Data/Kewpie.Data.csproj",
+        "packagesPath": "/home/jeffrey/.nuget/packages/",
+        "outputPath": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jeffrey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/Kewpie.Core.csproj": {
+                "projectPath": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/Kewpie.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

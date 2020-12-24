@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/react-dom/17.0.0/node_modules/@types/prop-types" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/react-dom/17.0.0/node_modules/@types/react" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/react-dom/17.0.0/node_modules/@types/react-dom" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/react-dom/17.0.0/node_modules/csstype" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_Kewpie.393333059.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Kewpie" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="Api" t="Include">
+          <e p="ApiController.cs" t="Include" />
+          <e p="CategoryController.cs" t="Include" />
+        </e>
+        <e p="ClientApp" t="Include">
+          <e p=".eslintcache" t="Include" />
+          <e p=".gitignore" t="Include" />
+          <e p="README.md" t="Include" />
+          <e p="node_modules/@babel/parser" t="IncludeRecursive" />
+          <e p="node_modules/@babel/types" t="IncludeRecursive" />
+          <e p="node_modules/@bcoe/v8-coverage" t="IncludeRecursive" />
+          <e p="node_modules/@jest/console" t="IncludeRecursive" />
+          <e p="node_modules/@jest/core" t="IncludeRecursive" />
+          <e p="node_modules/@jest/environment" t="IncludeRecursive" />
+          <e p="node_modules/@jest/fake-timers" t="IncludeRecursive" />
+          <e p="node_modules/@jest/globals" t="IncludeRecursive" />
+          <e p="node_modules/@jest/reporters" t="IncludeRecursive" />
+          <e p="node_modules/@jest/source-map" t="IncludeRecursive" />
+          <e p="node_modules/@jest/test-result" t="IncludeRecursive" />
+          <e p="node_modules/@jest/test-sequencer" t="IncludeRecursive" />
+          <e p="node_modules/@jest/transform" t="IncludeRecursive" />
+          <e p="node_modules/@jest/types" t="IncludeRecursive" />
+          <e p="node_modules/@pmmmwh/react-refresh-webpack-plugin" t="IncludeRecursive" />
+          <e p="node_modules/@testing-library/dom" t="IncludeRecursive" />
+          <e p="node_modules/@testing-library/jest-dom" t="IncludeRecursive" />
+          <e p="node_modules/@testing-library/react" t="IncludeRecursive" />
+          <e p="node_modules/@testing-library/user-event" t="IncludeRecursive" />
+          <e p="node_modules/@types" t="IncludeRecursive">
+            <e p="anymatch" t="IncludeRecursive" />
+            <e p="babel__generator" t="IncludeRecursive" />
+            <e p="babel__template" t="IncludeRecursive" />
+            <e p="babel__traverse" t="IncludeRecursive" />
+            <e p="estree" t="IncludeRecursive" />
+            <e p="istanbul-lib-coverage" t="IncludeRecursive" />
+            <e p="istanbul-lib-report" t="IncludeRecursive" />
+            <e p="jest" t="IncludeRecursive" />
+            <e p="json-schema" t="IncludeRecursive" />
+            <e p="minimatch" t="IncludeRecursive" />
+            <e p="node" t="IncludeRecursive" />
+            <e p="source-list-map" t="IncludeRecursive" />
+            <e p="tapable" t="IncludeRecursive" />
+            <e p="uglify-js" t="IncludeRecursive" />
+            <e p="webpack-sources" t="IncludeRecursive" />
+            <e p="yargs-parser" t="IncludeRecursive" />
+          </e>
+          <e p="node_modules/@typescript-eslint/experimental-utils" t="IncludeRecursive" />
+          <e p="node_modules/@typescript-eslint/parser" t="IncludeRecursive" />
+          <e p="node_modules/@typescript-eslint/scope-manager" t="IncludeRecursive" />
+          <e p="node_modules/@typescript-eslint/types" t="IncludeRecursive" />
+          <e p="node_modules/@typescript-eslint/typescript-estree" t="IncludeRecursive" />
+          <e p="node_modules/@typescript-eslint/visitor-keys" t="IncludeRecursive" />
+          <e p="node_modules/acorn" t="IncludeRecursive" />
+          <e p="node_modules/acorn-walk" t="IncludeRecursive" />
+          <e p="node_modules/ansi-escapes" t="IncludeRecursive" />
+          <e p="node_modules/ansi-regex" t="IncludeRecursive" />
+          <e p="node_modules/ansi-styles" t="IncludeRecursive" />
+          <e p="node_modules/array-union" t="IncludeRecursive" />
+          <e p="node_modules/arrify" t="IncludeRecursive" />
+          <e p="node_modules/axios" t="IncludeRecursive" />
+          <e p="node_modules/callsites" t="IncludeRecursive" />
+          <e p="node_modules/camelcase" t="IncludeRecursive" />
+          <e p="node_modules/char-regex" t="IncludeRecursive" />
+          <e p="node_modules/cjs-module-lexer" t="IncludeRecursive" />
+          <e p="node_modules/collect-v8-coverage" t="IncludeRecursive" />
+          <e p="node_modules/commander" t="IncludeRecursive" />
+          <e p="node_modules/css-loader" t="IncludeRecursive" />
+          <e p="node_modules/del" t="IncludeRecursive" />
+          <e p="node_modules/detect-newline" t="IncludeRecursive" />
+          <e p="node_modules/diff-sequences" t="IncludeRecursive" />
+          <e p="node_modules/dom-accessibility-api" t="IncludeRecursive" />
+          <e p="node_modules/emittery" t="IncludeRecursive" />
+          <e p="node_modules/entities" t="IncludeRecursive" />
+          <e p="node_modules/error-stack-parser" t="IncludeRecursive" />
+          <e p="node_modules/eslint-webpack-plugin" t="IncludeRecursive" />
+          <e p="node_modules/estree-walker" t="IncludeRecursive" />
+          <e p="node_modules/expect" t="IncludeRecursive" />
+          <e p="node_modules/fast-json-stable-stringify" t="IncludeRecursive" />
+          <e p="node_modules/find-up" t="IncludeRecursive" />
+          <e p="node_modules/globby" t="IncludeRecursive" />
+          <e p="node_modules/hash.js" t="IncludeRecursive" />
+          <e p="node_modules/html-entities" t="IncludeRecursive" />
+          <e p="node_modules/ignore" t="IncludeRecursive" />
+          <e p="node_modules/is-generator-fn" t="IncludeRecursive" />
+          <e p="node_modules/is-path-cwd" t="IncludeRecursive" />
+          <e p="node_modules/is-path-in-cwd" t="IncludeRecursive" />
+          <e p="node_modules/is-path-inside" t="IncludeRecursive" />
+          <e p="node_modules/jest" t="IncludeRecursive" />
+          <e p="node_modules/jest-changed-files" t="IncludeRecursive" />
+          <e p="node_modules/jest-circus" t="IncludeRecursive" />
+          <e p="node_modules/jest-cli" t="IncludeRecursive" />
+          <e p="node_modules/jest-config" t="IncludeRecursive" />
+          <e p="node_modules/jest-diff" t="IncludeRecursive" />
+          <e p="node_modules/jest-docblock" t="IncludeRecursive" />
+          <e p="node_modules/jest-each" t="IncludeRecursive" />
+          <e p="node_modules/jest-environment-jsdom" t="IncludeRecursive" />
+          <e p="node_modules/jest-environment-node" t="IncludeRecursive" />
+          <e p="node_modules/jest-get-type" t="IncludeRecursive" />
+          <e p="node_modules/jest-haste-map" t="IncludeRecursive" />
+          <e p="node_modules/jest-jasmine2" t="IncludeRecursive" />
+          <e p="node_modules/jest-leak-detector" t="IncludeRecursive" />
+          <e p="node_modules/jest-matcher-utils" t="IncludeRecursive" />
+          <e p="node_modules/jest-message-util" t="IncludeRecursive" />
+          <e p="node_modules/jest-mock" t="IncludeRecursive" />
+          <e p="node_modules/jest-pnp-resolver" t="IncludeRecursive" />
+          <e p="node_modules/jest-regex-util" t="IncludeRecursive" />
+          <e p="node_modules/jest-resolve" t="IncludeRecursive" />
+          <e p="node_modules/jest-resolve-dependencies" t="IncludeRecursive" />
+          <e p="node_modules/jest-runner" t="IncludeRecursive" />
+          <e p="node_modules/jest-runtime" t="IncludeRecursive" />
+          <e p="node_modules/jest-serializer" t="IncludeRecursive" />
+          <e p="node_modules/jest-snapshot" t="IncludeRecursive" />
+          <e p="node_modules/jest-util" t="IncludeRecursive" />
+          <e p="node_modules/jest-validate" t="IncludeRecursive" />
+          <e p="node_modules/jest-watcher" t="IncludeRecursive" />
+          <e p="node_modules/jest-worker" t="IncludeRecursive" />
+          <e p="node_modules/kleur" t="IncludeRecursive" />
+          <e p="node_modules/leven" t="IncludeRecursive" />
+          <e p="node_modules/locate-path" t="IncludeRecursive" />
+          <e p="node_modules/magic-string" t="IncludeRecursive" />
+          <e p="node_modules/make-dir" t="IncludeRecursive" />
+          <e p="node_modules/nanoid" t="IncludeRecursive" />
+          <e p="node_modules/native-url" t="IncludeRecursive" />
+          <e p="node_modules/node-sass" t="IncludeRecursive" />
+          <e p="node_modules/p-each-series" t="IncludeRecursive" />
+          <e p="node_modules/p-limit" t="IncludeRecursive" />
+          <e p="node_modules/p-locate" t="IncludeRecursive" />
+          <e p="node_modules/p-map" t="IncludeRecursive" />
+          <e p="node_modules/p-try" t="IncludeRecursive" />
+          <e p="node_modules/path-type" t="IncludeRecursive" />
+          <e p="node_modules/pirates" t="IncludeRecursive" />
+          <e p="node_modules/pretty-bytes" t="IncludeRecursive" />
+          <e p="node_modules/pretty-format" t="IncludeRecursive" />
+          <e p="node_modules/promise" t="IncludeRecursive" />
+          <e p="node_modules/react" t="IncludeRecursive" />
+          <e p="node_modules/react-dom" t="IncludeRecursive" />
+          <e p="node_modules/react-easy-swipe" t="IncludeRecursive" />
+          <e p="node_modules/react-redux" t="IncludeRecursive" />
+          <e p="node_modules/react-responsive-carousel" t="IncludeRecursive" />
+          <e p="node_modules/react-router-dom" t="IncludeRecursive" />
+          <e p="node_modules/react-scripts" t="IncludeRecursive" />
+          <e p="node_modules/read-pkg" t="IncludeRecursive" />
+          <e p="node_modules/read-pkg-up" t="IncludeRecursive" />
+          <e p="node_modules/redux" t="IncludeRecursive" />
+          <e p="node_modules/redux-devtools-extension" t="IncludeRecursive" />
+          <e p="node_modules/redux-logger" t="IncludeRecursive" />
+          <e p="node_modules/redux-persist" t="IncludeRecursive" />
+          <e p="node_modules/redux-thunk" t="IncludeRecursive" />
+          <e p="node_modules/reselect" t="IncludeRecursive" />
+          <e p="node_modules/rollup" t="IncludeRecursive" />
+          <e p="node_modules/rollup-plugin-terser" t="IncludeRecursive" />
+          <e p="node_modules/rollup-pluginutils" t="IncludeRecursive" />
+          <e p="node_modules/slash" t="IncludeRecursive" />
+          <e p="node_modules/source-map" t="IncludeRecursive" />
+          <e p="node_modules/sourcemap-codec" t="IncludeRecursive" />
+          <e p="node_modules/stackframe" t="IncludeRecursive" />
+          <e p="node_modules/string-length" t="IncludeRecursive" />
+          <e p="node_modules/strip-ansi" t="IncludeRecursive" />
+          <e p="node_modules/styled-components" t="IncludeRecursive" />
+          <e p="node_modules/symbol-observable" t="IncludeRecursive" />
+          <e p="node_modules/tempy" t="IncludeRecursive" />
+          <e p="node_modules/terminal-link" t="IncludeRecursive" />
+          <e p="node_modules/terser" t="IncludeRecursive" />
+          <e p="node_modules/throat" t="IncludeRecursive" />
+          <e p="node_modules/ts-pnp" t="IncludeRecursive" />
+          <e p="node_modules/tslib" t="IncludeRecursive" />
+          <e p="node_modules/tsutils" t="IncludeRecursive" />
+          <e p="node_modules/type-fest" t="IncludeRecursive" />
+          <e p="node_modules/v8-to-istanbul" t="IncludeRecursive" />
+          <e p="node_modules/web-vitals" t="IncludeRecursive" />
+          <e p="package-lock.json" t="Include" />
+          <e p="package.json" t="Include" />
+          <e p="public" t="Include">
+            <e p="favicon.ico" t="Include" />
+            <e p="images" t="Include">
+              <e p="4-kyatcha.jpg" t="Include" />
+              <e p="5-kyatcha.jpg" t="Include" />
+              <e p="6-kyatcha.jpg" t="Include" />
+              <e p="hiro.png" t="Include" />
+              <e p="icons" t="Include">
+                <e p="ic-call.svg" t="Include" />
+                <e p="ic-mail.svg" t="Include" />
+                <e p="ic-place.svg" t="Include" />
+              </e>
+              <e p="jeff.png" t="Include" />
+              <e p="jiro.png" t="Include" />
+              <e p="logo-the-fork.png" t="Include" />
+              <e p="logo-thuisbezorgd.png" t="Include" />
+              <e p="shop-items" t="Include">
+                <e p="1.png" t="Include" />
+                <e p="10.png" t="Include" />
+                <e p="11.png" t="Include" />
+                <e p="12.png" t="Include" />
+                <e p="2.png" t="Include" />
+                <e p="3.png" t="Include" />
+                <e p="4.png" t="Include" />
+                <e p="5.png" t="Include" />
+                <e p="6.png" t="Include" />
+                <e p="7.png" t="Include" />
+                <e p="8.png" t="Include" />
+                <e p="9.png" t="Include" />
+              </e>
+            </e>
+            <e p="index.html" t="Include" />
+            <e p="logo192.png" t="Include" />
+            <e p="logo512.png" t="Include" />
+            <e p="manifest.json" t="Include" />
+            <e p="robots.txt" t="Include" />
+          </e>
+          <e p="src" t="Include">
+            <e p="App.js" t="Include" />
+            <e p="assets" t="Include">
+              <e p="icons" t="Include">
+                <e p="ic-menu-closed.svg" t="Include" />
+                <e p="ic-menu-open.svg" t="Include" />
+                <e p="ic-remove.svg" t="Include" />
+              </e>
+              <e p="logo" t="Include">
+                <e p="logo-facebook.svg" t="Include" />
+                <e p="logo-instagram.svg" t="Include" />
+                <e p="logo-twitter.svg" t="Include" />
+                <e p="logo-youtube.svg" t="Include" />
+                <e p="logo.svg" t="Include" />
+                <e p="shopping-cart.svg" t="Include" />
+              </e>
+            </e>
+            <e p="components" t="Include">
+              <e p="carousel" t="Include">
+                <e p="carousel.component.jsx" t="Include" />
+                <e p="carousel.data.js" t="Include" />
+              </e>
+              <e p="cart-dropdown" t="Include">
+                <e p="cart-dropdown.component.jsx" t="Include" />
+                <e p="cart-dropdown.styles.jsx" t="Include" />
+                <e p="cart-header" t="Include">
+                  <e p="cart-header.component.jsx" t="Include" />
+                  <e p="cart-header.styles.jsx" t="Include" />
+                </e>
+                <e p="cart-item" t="Include">
+                  <e p="cart-item.component.jsx" t="Include" />
+                  <e p="cart-item.styles.jsx" t="Include" />
+                </e>
+              </e>
+              <e p="cart-icon" t="Include">
+                <e p="cart-icon.component.jsx" t="Include" />
+                <e p="cart-icon.styles.jsx" t="Include" />
+              </e>
+              <e p="checkout" t="Include">
+                <e p="checkout-item" t="Include">
+                  <e p="checkout-item.component.jsx" t="Include" />
+                  <e p="checkout-item.styles.jsx" t="Include" />
+                </e>
+                <e p="checkout-summary" t="Include">
+                  <e p="checkout-summary.component.jsx" t="Include" />
+                  <e p="checkout-summary.styles.jsx" t="Include" />
+                </e>
+              </e>
+              <e p="custom-button" t="Include">
+                <e p="custom-button.component.jsx" t="Include" />
+                <e p="custom-button.styles.jsx" t="Include" />
+              </e>
+              <e p="divider" t="Include">
+                <e p="divider.component.jsx" t="Include" />
+                <e p="divider.styles.jsx" t="Include" />
+              </e>
+              <e p="footer" t="Include">
+                <e p="contact" t="Include">
+                  <e p="contact.component.jsx" t="Include" />
+                  <e p="contact.styles.jsx" t="Include" />
+                </e>
+                <e p="footer.component.jsx" t="Include" />
+                <e p="footer.styles.jsx" t="Include" />
+                <e p="partners" t="Include">
+                  <e p="partners.component.jsx" t="Include" />
+                  <e p="partners.styles.jsx" t="Include" />
+                </e>
+                <e p="social-media" t="Include">
+                  <e p="social-media.component.jsx" t="Include" />
+                  <e p="social-media.styles.jsx" t="Include" />
+                </e>
+              </e>
+              <e p="header" t="Include">
+                <e p="hamburger" t="Include">
+                  <e p="hamburger.component.jsx" t="Include" />
+                  <e p="hamburger.styles.jsx" t="Include" />
+                </e>
+                <e p="header.component.jsx" t="Include" />
+                <e p="header.styles.jsx" t="Include" />
+              </e>
+              <e p="order-summary" t="Include">
+                <e p="order-summary.component.jsx" t="Include" />
+                <e p="order-summary.styles.jsx" t="Include" />
+              </e>
+              <e p="remove-button" t="Include">
+                <e p="remove-button.component.jsx" t="Include" />
+                <e p="remove-button.styles.jsx" t="Include" />
+              </e>
+              <e p="shop-category" t="Include">
+                <e p="shop-category.component.jsx" t="Include" />
+                <e p="shop-category.styles.jsx" t="Include" />
+              </e>
+              <e p="shop-item" t="Include">
+                <e p="shop-item.component.jsx" t="Include" />
+                <e p="shop-item.styles.jsx" t="Include" />
+              </e>
+            </e>
+            <e p="db.json" t="Include" />
+            <e p="global.styles.js" t="Include" />
+            <e p="index.css" t="Include" />
+            <e p="index.js" t="Include" />
+            <e p="logo.svg" t="Include" />
+            <e p="pages" t="Include">
+              <e p="about" t="Include">
+                <e p="about-section" t="Include">
+                  <e p="about-section.component.jsx" t="Include" />
+                  <e p="about-section.styles.jsx" t="Include" />
+                </e>
+                <e p="about.component.jsx" t="Include" />
+                <e p="about.styles.jsx" t="Include" />
+                <e p="chefs-section" t="Include">
+                  <e p="chef" t="Include">
+                    <e p="chef.component.jsx" t="Include" />
+                    <e p="chef.styles.jsx" t="Include" />
+                  </e>
+                  <e p="chefs-data.js" t="Include" />
+                  <e p="chefs-section.component.jsx" t="Include" />
+                  <e p="chefs-section.styles.jsx" t="Include" />
+                </e>
+              </e>
+              <e p="checkout" t="Include">
+                <e p="checkout.component.jsx" t="Include" />
+                <e p="checkout.styles.jsx" t="Include" />
+              </e>
+              <e p="home" t="Include">
+                <e p="home.component.jsx" t="Include" />
+                <e p="home.styles.jsx" t="Include" />
+              </e>
+              <e p="reservation" t="Include">
+                <e p="reservation.component.jsx" t="Include" />
+                <e p="reservation.styles.jsx" t="Include" />
+              </e>
+              <e p="shop" t="Include">
+                <e p="shop.component.jsx" t="Include" />
+                <e p="shop.styles.jsx" t="Include" />
+              </e>
+            </e>
+            <e p="redux" t="Include">
+              <e p="cart" t="Include">
+                <e p="cart.actions.js" t="Include" />
+                <e p="cart.reducer.js" t="Include" />
+                <e p="cart.selectors.js" t="Include" />
+                <e p="cart.types.js" t="Include" />
+                <e p="cart.utils.js" t="Include" />
+              </e>
+              <e p="header" t="Include">
+                <e p="header.actions.js" t="Include" />
+                <e p="header.reducer.js" t="Include" />
+                <e p="header.selectors.js" t="Include" />
+                <e p="header.types.js" t="Include" />
+              </e>
+              <e p="root-reducer.js" t="Include" />
+              <e p="shop" t="Include">
+                <e p="shop.data.js" t="Include" />
+                <e p="shop.reducer.js" t="Include" />
+                <e p="shop.types.js" t="Include" />
+              </e>
+              <e p="store.js" t="Include" />
+            </e>
+            <e p="setupTests.js" t="Include" />
+            <e p="utils" t="Include">
+              <e p="media-queries.js" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Kewpie.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="app.db" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Kewpie.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Kewpie.Core" t="IncludeRecursive">
+        <e p="Entities" t="Include">
+          <e p="Base" t="Include">
+            <e p="Entity.cs" t="Include" />
+          </e>
+          <e p="Category.cs" t="Include" />
+          <e p="Order.cs" t="Include" />
+          <e p="ShopItem.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="Base" t="Include">
+            <e p="IAsyncRepository.cs" t="Include" />
+          </e>
+          <e p="ICategoryRepository.cs" t="Include" />
+          <e p="IOrderRepository.cs" t="Include" />
+          <e p="IShopItemRepository.cs" t="Include" />
+        </e>
+        <e p="Kewpie.Core.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Kewpie.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Kewpie.Data" t="IncludeRecursive">
+        <e p="AppDbContext.cs" t="Include" />
+        <e p="AppSataSeed.cs" t="Include" />
+        <e p="Identity" t="Include">
+          <e p="ApplicationUser.cs" t="Include" />
+        </e>
+        <e p="Kewpie.Data.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20201224184953_initialMigration + dataseed.Designer.cs" t="Include" />
+          <e p="20201224184953_initialMigration + dataseed.cs" t="Include" />
+          <e p="AppDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="Base" t="Include">
+            <e p="AsyncRepository.cs" t="Include" />
+          </e>
+          <e p="CategoryRepository.cs" t="Include" />
+          <e p="OrderRepository.cs" t="Include" />
+          <e p="ShopItemRepository.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Kewpie.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Kewpie.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
