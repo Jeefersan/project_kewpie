@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81239f04-bcb1-40a0-aedf-654b5a7c8f45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Kewpie.Data/AppSataSeed.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Data/AppSataSeed.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +128,7 @@
       <workItem from="1608749045298" duration="8316000" />
       <workItem from="1608796887618" duration="14410000" />
       <workItem from="1608826012141" duration="458000" />
-      <workItem from="1608826488686" duration="6355000" />
+      <workItem from="1608826488686" duration="7212000" />
     </task>
     <servers />
   </component>

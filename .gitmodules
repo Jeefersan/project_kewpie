@@ -1,0 +1,3 @@
+[submodule "Kewpie/ClientApp"]
+	path = Kewpie/ClientApp
+	url = git@github.com:Jeefersan/kewpie2go.git
