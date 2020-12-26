@@ -1,6 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Kewpie.Core.Entities;
+using Kewpie.Data.Identity;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Kewpie.Data
@@ -21,6 +23,15 @@ namespace Kewpie.Data
                 .HasForeignKey(s => s.CategoryId);
 
             builder.Entity<ShopItem>().HasData(ShopItems());
+            
+            var hasher = new PasswordHasher<ApplicationUser>();
+            builder.Entity<ApplicationUser>().HasData(new ApplicationUser
+            {
+                UserName = "test@gmail.com",
+                Email = "test@gmail.com",
+                PasswordHash = hasher.HashPassword(null, "password"),
+                SecurityStamp = ""
+            });
         }
 
         private static List<Category> Categories()

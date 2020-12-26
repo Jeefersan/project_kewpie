@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qKRVEqbSJPgrBfUfKvDWHkoC5iILdrBlSJR9NXHEnW+r0yLC0rpf06rx6FTXyUvo/ltwVQWIqduXleCn7oolvQ==",
+  "dgSpecHash": "/Sio75JD68n1tsZjLJ91l8lf1OU8In90t3dhUE9HNe15lrHyU3cEEhxqBTWml+6wf6tm8dVbORkAI94yhWG4XQ==",
   "success": true,
-  "projectFilePath": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Data/Kewpie.Data.csproj",
+  "projectFilePath": "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Data/Kewpie.Data.csproj",
   "expectedPackageFiles": [
     "/home/jeffrey/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
     "/home/jeffrey/.nuget/packages/identitymodel/4.0.0/identitymodel.4.0.0.nupkg.sha512",
