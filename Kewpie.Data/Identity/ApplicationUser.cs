@@ -7,7 +7,7 @@ namespace Kewpie.Data.Identity
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public Address Address { get; set; } = null;
+        public Address Address { get; set; }
         public string RefreshToken { get; set; }
     }
 }
