@@ -7,3 +7,12 @@
 /home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.csproj.CoreCompileInputs.cache
 /home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.dll
 /home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.pdb
+/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/bin/Debug/netcoreapp3.1/Kewpie.Core.deps.json
+/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/bin/Debug/netcoreapp3.1/Kewpie.Core.dll
+/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/bin/Debug/netcoreapp3.1/Kewpie.Core.pdb
+/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.csprojAssemblyReference.cache
+/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.AssemblyInfoInputs.cache
+/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.AssemblyInfo.cs
+/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.csproj.CoreCompileInputs.cache
+/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.dll
+/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.pdb

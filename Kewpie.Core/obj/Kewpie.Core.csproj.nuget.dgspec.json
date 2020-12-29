@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/Kewpie.Core.csproj": {}
+    "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/Kewpie.Core.csproj": {}
   },
   "projects": {
-    "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/Kewpie.Core.csproj": {
+    "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/Kewpie.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/Kewpie.Core.csproj",
+        "projectUniqueName": "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/Kewpie.Core.csproj",
         "projectName": "Kewpie.Core",
-        "projectPath": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/Kewpie.Core.csproj",
+        "projectPath": "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/Kewpie.Core.csproj",
         "packagesPath": "/home/jeffrey/.nuget/packages/",
-        "outputPath": "/home/jeffrey/RiderProjects/Kewpie/Kewpie.Core/obj/",
+        "outputPath": "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jeffrey/.nuget/NuGet/NuGet.Config"

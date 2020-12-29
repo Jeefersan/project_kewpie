@@ -3,7 +3,7 @@ using Kewpie.Core.Entities;
 
 namespace Kewpie.Models
 {
-    public class UpdateModel
+    public class UpdateUserModel
     {
         [Required]
         [MinLength(3)]

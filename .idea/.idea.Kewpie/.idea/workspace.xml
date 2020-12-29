@@ -5,8 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81239f04-bcb1-40a0-aedf-654b5a7c8f45" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kewpie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/Entities/Address.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/Entities/Address.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/Entities/Order.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/Entities/Order.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/bin/Debug/netcoreapp3.1/Kewpie.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/bin/Debug/netcoreapp3.1/Kewpie.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/bin/Debug/netcoreapp3.1/Kewpie.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/bin/Debug/netcoreapp3.1/Kewpie.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/Kewpie.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/Kewpie.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie.Core/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie.Core/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie/Api/AuthController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie/Api/AuthController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie/ClientApp" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie/ClientApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie/Helpers/ApplicationUserManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie/Helpers/ApplicationUserManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie/Helpers/JwtSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie/Helpers/JwtSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie/Helpers/JwtTokenCreator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie/Helpers/JwtTokenCreator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie/Models/LoginModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie/Models/LoginModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie/Models/RegisterModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie/Models/RegisterModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie/Models/UpdatePasswordModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie/Models/UpdatePasswordModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie/Models/UpdateUserModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie/Models/UpdateUserModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kewpie/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kewpie/Startup.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,18 +43,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/03F93495-1F1C-4251-BAD4-893F25CC70B9/1/CorsServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E861A8F7-CA3E-4C3E-8C40-5FD7641920A2/6/UserStore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B0DB0FE9-4FD4-48F7-BC71-8D68078A7AD1/21/EntityFrameworkQueryableExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FBEFA42B-A2E6-4C44-97E9-579677415DBC/1D/UserManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F9B7D2EE-C4FD-432F-A52C-CB3A9E9DE266/3/IdentityUser.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/736E533F-7585-4782-99A2-1365D5C0AEBA/E/ApiAuthorizationDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C380C79A-28E2-4B2E-BE08-C035CC2444AC/42/Register.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/19B3447F-EED7-48F4-B362-071ED33E9131/3A4/List.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C380C79A-28E2-4B2E-BE08-C035CC2444AC/3E/Login.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Kewpie.Core/Class1.cs" />
-      <option value="$PROJECT_DIR$/Kewpie.Data/Class1.cs" />
-      <option value="$PROJECT_DIR$/Kewpie.Core/Entities/Base/EntityBase.cs" />
-      <option value="$PROJECT_DIR$/Kewpie.Core/Entities/Base/IEntity.cs" />
-      <option value="$PROJECT_DIR$/Kewpie.Core/Interfaces/IAsyncRepository.cs" />
       <option value="$PROJECT_DIR$/Kewpie.Data/Repositories/ShopItemRepository.cs" />
       <option value="$PROJECT_DIR$/Kewpie.Core/Interfaces/IOrderRepository.cs" />
       <option value="$PROJECT_DIR$/Kewpie.Core/Interfaces/IShopItemRepository.cs" />
@@ -36,14 +72,10 @@
       <option value="$PROJECT_DIR$/Kewpie/Api/CategoriesController.cs" />
       <option value="$PROJECT_DIR$/Kewpie/.gitignore" />
       <option value="$PROJECT_DIR$/Kewpie.Data/Kewpie.Data.csproj" />
-      <option value="$PROJECT_DIR$/Kewpie.Data/Identity/ApplicationUser.cs" />
       <option value="$PROJECT_DIR$/Kewpie/Data/ApplicationDbContext.cs" />
-      <option value="$PROJECT_DIR$/Kewpie.Core/Entities/Order.cs" />
       <option value="$APPLICATION_CONFIG_DIR$/consoles/db/582e697e-2505-465e-9b28-0d0712b2c3f1/console_1.sql" />
       <option value="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/736E533F-7585-4782-99A2-1365D5C0AEBA/E/ApiAuthorizationDbContext.cs" />
-      <option value="$PROJECT_DIR$/Kewpie.Data/AppDbContext.cs" />
       <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f13b6221-3e08-46bf-82da-6f103d5936bd/console.sql" />
-      <option value="$PROJECT_DIR$/Kewpie/appsettings.json" />
       <option value="$PROJECT_DIR$/Kewpie.Core/Entities/ShopItem.cs" />
       <option value="$PROJECT_DIR$/Kewpie.Core/Entities/Category.cs" />
       <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f13b6221-3e08-46bf-82da-6f103d5936bd/console_1.sql" />
@@ -60,9 +92,29 @@
       <option value="$PROJECT_DIR$/Kewpie/Api/CategoryController.cs" />
       <option value="$PROJECT_DIR$/Kewpie.Data/Repositories/CategoryRepository.cs" />
       <option value="$PROJECT_DIR$/Kewpie.Data/Repositories/Base/AsyncRepository.cs" />
-      <option value="$PROJECT_DIR$/Kewpie/Startup.cs" />
       <option value="$PROJECT_DIR$/Kewpie.Core/Entities/Base/Entity.cs" />
+      <option value="$PROJECT_DIR$/Kewpie.Core/Entities/User.cs" />
+      <option value="$PROJECT_DIR$/Kewpie.Core/Entities/Order.cs" />
+      <option value="$PROJECT_DIR$/Kewpie.Data/AppDbContext.cs" />
       <option value="$PROJECT_DIR$/Kewpie.Data/AppSataSeed.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/Services/IUserService.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/Services/UserService.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/Helpers/JwtSettings.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/Helpers/JwtTokenCreator.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/Models/LoginModel.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/Startup.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/Models/RegisterModel.cs" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/97e07d03-a774-45de-baad-1dbe374ed767/console_1.sql" />
+      <option value="$PROJECT_DIR$/Kewpie/appsettings.json" />
+      <option value="$PROJECT_DIR$/Kewpie/Models/UpdateModel.cs" />
+      <option value="$PROJECT_DIR$/Kewpie.Data/Identity/ApplicationUser.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/Helpers/ApplicationUserManager.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/Models/UpdatePasswordModel.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/ClientApp/src/pages/settings/settings.component.jsx" />
+      <option value="$PROJECT_DIR$/Kewpie/ClientApp/src/services/authentication-service.js" />
+      <option value="$PROJECT_DIR$/Kewpie/Models/UpdateUserModel.cs" />
+      <option value="$PROJECT_DIR$/Kewpie/Api/AuthController.cs" />
+      <option value="$PROJECT_DIR$/Kewpie.Core/Entities/Address.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1m1dERkc4McgrZPo4VmBoh3sTq0" />
@@ -76,11 +128,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34995845" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.42992875" />
+    <property name="database.data.extractors.current.export.id" value="CSV-Groovy.csv.groovy" />
+    <property name="database.data.extractors.current.id" value="CSV-Groovy.csv.groovy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kewpie" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Kewpie">
@@ -129,6 +187,11 @@
       <workItem from="1608796887618" duration="14410000" />
       <workItem from="1608826012141" duration="458000" />
       <workItem from="1608826488686" duration="7212000" />
+      <workItem from="1609014549879" duration="7643000" />
+      <workItem from="1609031079409" duration="971000" />
+      <workItem from="1609063404992" duration="8381000" />
+      <workItem from="1609098733271" duration="3534000" />
+      <workItem from="1609145156363" duration="17596000" />
     </task>
     <servers />
   </component>
@@ -149,6 +212,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#Kewpie.Data.Identity.ApplicationUser" memberName="Address" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
