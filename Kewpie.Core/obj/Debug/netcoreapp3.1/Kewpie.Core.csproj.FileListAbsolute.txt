@@ -16,3 +16,21 @@
 /home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.csproj.CoreCompileInputs.cache
 /home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.dll
 /home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/Debug/netcoreapp3.1/Kewpie.Core.pdb
+C:\Projects\Web dev\project_kewpie\Kewpie.Core\bin\Debug\netcoreapp3.1\Kewpie.Core.deps.json
+C:\Projects\Web dev\project_kewpie\Kewpie.Core\bin\Debug\netcoreapp3.1\Kewpie.Core.dll
+C:\Projects\Web dev\project_kewpie\Kewpie.Core\bin\Debug\netcoreapp3.1\Kewpie.Core.pdb
+C:\Projects\Web dev\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.csprojAssemblyReference.cache
+C:\Projects\Web dev\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.AssemblyInfoInputs.cache
+C:\Projects\Web dev\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.AssemblyInfo.cs
+C:\Projects\Web dev\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Web dev\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.dll
+C:\Projects\Web dev\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.pdb
+C:\Projects\dotNET\project_kewpie\Kewpie.Core\bin\Debug\netcoreapp3.1\Kewpie.Core.deps.json
+C:\Projects\dotNET\project_kewpie\Kewpie.Core\bin\Debug\netcoreapp3.1\Kewpie.Core.dll
+C:\Projects\dotNET\project_kewpie\Kewpie.Core\bin\Debug\netcoreapp3.1\Kewpie.Core.pdb
+C:\Projects\dotNET\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.csprojAssemblyReference.cache
+C:\Projects\dotNET\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.AssemblyInfoInputs.cache
+C:\Projects\dotNET\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.AssemblyInfo.cs
+C:\Projects\dotNET\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.csproj.CoreCompileInputs.cache
+C:\Projects\dotNET\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.dll
+C:\Projects\dotNET\project_kewpie\Kewpie.Core\obj\Debug\netcoreapp3.1\Kewpie.Core.pdb

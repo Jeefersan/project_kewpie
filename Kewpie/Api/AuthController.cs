@@ -57,7 +57,10 @@ namespace Kewpie.Api
 
             return Ok(new
             {
-                Email = user.UserName, user.Address, user.FirstName, user.LastName
+                Email = user.UserName,
+                user.Address,
+                user.FirstName,
+                user.LastName
             });
         }
 

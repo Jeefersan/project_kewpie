@@ -326,13 +326,13 @@ namespace Kewpie.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "8e8bebb5-e48d-4b06-abaa-8a008e827de4",
+                            Id = "7c76c9d2-bc78-412c-b0cf-d01b5330d312",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "9c3b980e-9b27-4dde-82a4-27c576f4d9c6",
+                            ConcurrencyStamp = "e66abe06-5299-45d4-a59f-b3d4f2b61053",
                             Email = "test@gmail.com",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
-                            PasswordHash = "AQAAAAEAACcQAAAAED7I29Lpy9+uKGVj2culmKbzYWA7JqmXpYbaUOzc/SxsSQfVt51nd36PUnH83PFxqg==",
+                            PasswordHash = "AQAAAAEAACcQAAAAELXnmj+zvEQwVrgo+0/1+q0sB2o0GXvnwAnM+NgLth7ljGRA0vfEl1l/Rn1wG1uVYA==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,

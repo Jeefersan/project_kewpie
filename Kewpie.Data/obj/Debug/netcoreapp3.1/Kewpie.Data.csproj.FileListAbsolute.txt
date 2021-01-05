@@ -28,3 +28,33 @@
 /home/jeffrey/RiderProjects/project_kewpie/Kewpie.Data/obj/Debug/netcoreapp3.1/Kewpie.Data.dll
 /home/jeffrey/RiderProjects/project_kewpie/Kewpie.Data/obj/Debug/netcoreapp3.1/Kewpie.Data.pdb
 /home/jeffrey/RiderProjects/project_kewpie/Kewpie.Data/obj/Debug/netcoreapp3.1/Kewpie.Data.genruntimeconfig.cache
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Data.deps.json
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Data.runtimeconfig.json
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Data.runtimeconfig.dev.json
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Data.dll
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Data.pdb
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Core.dll
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Core.pdb
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.csprojAssemblyReference.cache
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.AssemblyInfoInputs.cache
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.AssemblyInfo.cs
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.csproj.CopyComplete
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.dll
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.pdb
+C:\Projects\Web dev\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.genruntimeconfig.cache
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Data.deps.json
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Data.runtimeconfig.json
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Data.runtimeconfig.dev.json
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Data.dll
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Data.pdb
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Core.dll
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\bin\Debug\netcoreapp3.1\Kewpie.Core.pdb
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.csprojAssemblyReference.cache
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.AssemblyInfoInputs.cache
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.AssemblyInfo.cs
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.csproj.CoreCompileInputs.cache
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.csproj.CopyComplete
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.dll
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.pdb
+C:\Projects\dotNET\project_kewpie\Kewpie.Data\obj\Debug\netcoreapp3.1\Kewpie.Data.genruntimeconfig.cache

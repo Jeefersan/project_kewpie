@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/Kewpie.Core.csproj": {}
+    "/media/jeffrey/7ACE47B0CE47640B/Projects/dotNET/project_kewpie/Kewpie.Core/Kewpie.Core.csproj": {}
   },
   "projects": {
-    "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/Kewpie.Core.csproj": {
+    "/media/jeffrey/7ACE47B0CE47640B/Projects/dotNET/project_kewpie/Kewpie.Core/Kewpie.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/Kewpie.Core.csproj",
+        "projectUniqueName": "/media/jeffrey/7ACE47B0CE47640B/Projects/dotNET/project_kewpie/Kewpie.Core/Kewpie.Core.csproj",
         "projectName": "Kewpie.Core",
-        "projectPath": "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/Kewpie.Core.csproj",
+        "projectPath": "/media/jeffrey/7ACE47B0CE47640B/Projects/dotNET/project_kewpie/Kewpie.Core/Kewpie.Core.csproj",
         "packagesPath": "/home/jeffrey/.nuget/packages/",
-        "outputPath": "/home/jeffrey/RiderProjects/project_kewpie/Kewpie.Core/obj/",
+        "outputPath": "/media/jeffrey/7ACE47B0CE47640B/Projects/dotNET/project_kewpie/Kewpie.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jeffrey/.nuget/NuGet/NuGet.Config"
